@@ -1,0 +1,17 @@
+com\app\ui\students\AddStudentMainLayoutFactory.class
+com\app\ui\students\AddStudentMainLayoutFactory$AddStudentMainLayout.class
+com\app\ui\common\UniversityLogoLayoutFactory$LogoLayout.class
+com\app\ui\students\ShowAllStudentsLayoutFactory$ShowAllStudentsLayout.class
+com\app\ui\common\UIComponentBuilder.class
+com\app\ui\common\UniversityMainUI.class
+com\app\ui\common\UniversityMenuFactory$UniversityMenu.class
+com\app\ui\students\AddStudentMainLayoutFactory$1.class
+com\app\ui\common\UniversityMenuFactory.class
+com\app\ui\students\ShowAllStudentsLayoutFactory$1.class
+com\app\ui\universities\UniversityLayoutFactory.class
+com\app\ui\common\UniversityMenuFactory$1.class
+com\app\ui\students\ShowAllStudentsLayoutFactory.class
+com\app\ui\students\StudentLayoutFactory.class
+com\app\ui\common\UniversityLogoLayoutFactory.class
+com\app\ui\navigator\UniversityNavigator.class
+com\app\ui\common\UniversityLogoLayoutFactory$1.class
